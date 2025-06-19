@@ -136,8 +136,7 @@ Reports are saved in the `mochawesome-report/` folder.
 
 ## 👤 Author
 
-**Mustansar** – QA Automation Engineer
-📫 GitHub: [@Mustansar1111](https://github.com/Mustansar1111)
+**Izhan** – QA Automation Engineer
 💼 Portfolio: In Progress
 🌱 Skills: Cypress, JavaScript, Manual+Automation Testing, Git, CI/CD
 
